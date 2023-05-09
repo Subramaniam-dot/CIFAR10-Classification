@@ -754,3 +754,7 @@ The model's training accuracy increases from 33.74% in the first epoch to 97.69%
   howpublished = {\url{https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer}}
 }
 > * https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d
+
+
+
+> Done by [Subramaniam](https://www.linkedin.com/in/subramaniam-s-m/)
