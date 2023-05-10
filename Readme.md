@@ -5,7 +5,7 @@
 
  # Image Classification on CIFAR10 Data
 
-[](https://github.com/Subramaniam-dot/CIFAR10-Classification/blob/main/arc.png)
+[]([https://github.com/Subramaniam-dot/CIFAR10-Classification/blob/main/arc.png](https://github.com/Subramaniam-dot/CIFAR10-Classification/blob/b57d3acd55b29b639ff55716ffb06a8100aeed4b/arc.png))
 # Libraries
 > *   Import necessary PyTorch libraries and submodules for building and training neural networks.
 > *  Import other essential libraries such as NumPy for numerical operations and Matplotlib for plotting.
